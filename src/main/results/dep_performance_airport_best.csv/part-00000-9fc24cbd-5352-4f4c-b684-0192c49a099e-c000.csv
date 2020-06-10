@@ -1,0 +1,9 @@
+YEAR,delay_ratio,ORIGIN_AIRPORT_ID,total_flights,delayed_flight_count,AIRPORT_NAME
+2014,0.0,14955,1,,"Saipan, TT: Francisco C. Ada Saipan International"
+2015,0.01951219512195122,11092,205,4,"Moab, UT: Canyonlands Field"
+2016,0.0,11495,1,,"Houston, TX: Ellington"
+2016,0.0,13290,1,,"Manhattan/Ft. Riley, KS: Manhattan Regional"
+2016,0.0,14955,1,,"Saipan, TT: Francisco C. Ada Saipan International"
+2017,0.031746031746031744,10245,63,2,"King Salmon, AK: King Salmon Airport"
+2018,0.02092050209205021,15897,239,5,"West Yellowstone, MT: Yellowstone"
+2019,0.01639344262295082,10245,61,1,"King Salmon, AK: King Salmon Airport"

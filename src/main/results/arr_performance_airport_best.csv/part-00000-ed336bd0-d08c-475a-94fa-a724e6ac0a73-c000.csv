@@ -1,0 +1,9 @@
+YEAR,delay_ratio,DEST_AIRPORT_ID,total_flights,delayed_flight_count,AIRPORT_NAME
+2014,0.0,14955,1,,"Saipan, TT: Francisco C. Ada Saipan International"
+2015,0.005025125628140704,15582,199,1,"Vernal, UT: Vernal Regional"
+2016,0.0,13290,1,,"Manhattan/Ft. Riley, KS: Manhattan Regional"
+2016,0.0,14955,1,,"Saipan, TT: Francisco C. Ada Saipan International"
+2017,0.0,11719,1,,"Fort Collins/Loveland, CO: Northern Colorado Regional"
+2017,0.0,15074,1,,"Stillwater, OK: Stillwater Regional"
+2018,0.0,10590,45,,"Bullhead City, AZ: Laughlin/Bullhead International"
+2019,0.01639344262295082,10245,61,1,"King Salmon, AK: King Salmon Airport"

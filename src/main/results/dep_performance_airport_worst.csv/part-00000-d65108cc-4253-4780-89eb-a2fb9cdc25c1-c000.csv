@@ -1,0 +1,9 @@
+YEAR,delay_ratio,ORIGIN_AIRPORT_ID,total_flights,delayed_flight_count,AIRPORT_NAME
+2014,1.0,13203,1,1,"Macon, GA: Middle Georgia Regional"
+2015,0.24742268041237114,12320,97,24,"Wilmington, DE: New Castle"
+2016,1.0,10558,1,1,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field"
+2016,1.0,11563,1,1,"Wendover, UT: Wendover Airport"
+2017,1.0,15074,1,1,"Stillwater, OK: Stillwater Regional"
+2017,1.0,15235,1,1,"Tokeen, AK: Tokeen Airport"
+2018,0.5,16133,2,1,"Youngstown/Warren, OH: Youngstown-Warren Regional"
+2019,0.26666666666666666,13964,255,68,"North Bend/Coos Bay, OR: Southwest Oregon Regional"

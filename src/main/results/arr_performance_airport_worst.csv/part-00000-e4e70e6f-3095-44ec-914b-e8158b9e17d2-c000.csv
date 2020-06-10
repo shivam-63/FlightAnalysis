@@ -1,0 +1,7 @@
+YEAR,delay_ratio,DEST_AIRPORT_ID,total_flights,delayed_flight_count,AIRPORT_NAME
+2014,0.2911694510739857,11726,419,122,"Topeka, KS: Topeka Regional"
+2015,0.2987012987012987,15008,77,23,"St. Cloud, MN: St. Cloud Regional"
+2016,0.22569444444444445,13964,288,65,"North Bend/Coos Bay, OR: Southwest Oregon Regional"
+2017,0.6666666666666666,11905,6,4,"Longview, TX: East Texas Regional"
+2018,0.5,16133,2,1,"Youngstown/Warren, OH: Youngstown-Warren Regional"
+2019,0.26282051282051283,14109,468,123,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional"
